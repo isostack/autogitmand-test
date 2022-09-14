@@ -38,7 +38,7 @@ def clone():
 def commit():
     commit_message = 'Project Update'
     run('commit', '-am', commit_message)
-    run('push', '-u', 'origin', 'master')
+    run('push', '-u', 'origin')
 
 
 def branch():
