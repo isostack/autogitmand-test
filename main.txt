@@ -1,0 +1,1009 @@
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+     ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse 
+     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+      sunt in culpa qui officia deserunt mollit anim id est laborum.
+    
+    <p>Lorem ipsum dolor sit amet. Qui dolores explicabo ut sint reprehenderit eos cupiditate 
+    similique sed sapiente incidunt ea ratione sunt id aperiam error est dolor enim? Qui magni 
+    architecto ut harum dolorum quo tenetur saepe qui numquam iusto. </p><p>Et quia voluptatem aut 
+    dolore blanditiis et galisum itaque. Vel rerum dolores qui necessitatibus laborum et deserunt 
+    maiores quo fuga iste aut corporis ipsum ea porro sapiente. 33 maxime facere id nostrum itaque vel provident provident rem optio voluptatem. Non ducimus tempore ex sint accusamus et perspiciatis expedita ea mollitia quos est magni placeat id enim possimus est eius reprehenderit. </p><p>Hic dolor aspernatur est fugit autem est provident quisquam et consequatur nostrum ea obcaecati aspernatur aut sint sint? Quo perspiciatis veniam sed accusamus tempora est nemo nesciunt aut dolores eligendi At incidunt earum. Quo optio commodi et facere impedit et vero mollitia. Sit iusto iusto in molestiae reprehenderit et officia illo ab sunt asperiores rem officiis asperiores  facilis omnis sit officiis nulla. </p>
+
+LOREM IPZUM LOREM IPZUM
+
+Text Generator
+What's my IP
+FAQ
+Translations
+
+    Lino Ipsum
+
+    English
+
+Lorem Ipsum Text Generator. Copy and Paste!
+Not a Lorem Ipsum whatsoever, but your Lorem Ipsum!
+
+With the online text generator you can process your personal Lorem Ipsum enriching it with html elements that define its structure, with the possibility to insert external links, but not only.
+
+Now to compose a text Lorem Ipsum is much more fun!
+
+In fact, inserting any fantasy text or a famous text, be it a poem, a speech, a literary passage, a song's text, etc., our text generator will provide the random extraction of terms and steps to compose your own exclusive Lorem Ipsum.
+
+Be original, test your imagination... our Lorem Ipsum generator will amaze you. Try it now! Copy and Paste!
+Source Text
+Lorem Ipzum options
+Start with 'Lorem Ipsum'
+Paragraphs Number
+Paragraph Length
+Add HTML elements
+Links <a>
+Bold and italic text <b> and <i>
+Headers <h1> through <h5>
+Unordered lists <ul>
+Ordered lists <ol>
+Description lists <dl>
+Blockquotes <blockquote>
+Pre/Code <pre> and <code>
+Turn off HTML elements
+Generated text
+
+Lorem ipsum dolor sit amet. Cum facere rerum aut dolor perspiciatis At sequi voluptatem ut laudantium nemo sit enim ipsa 33 laborum repellendus! Ut sunt vitae ut obcaecati rerum quisquam galisum ut ducimus enim hic fugit autem et animi amet et eligendi quia. Et eaque error At quia autem et dolores sint aut quas nisi ea repudiandae neque est adipisci iste. Qui voluptatibus numquam quo laborum libero in sint aliquid aut voluptatem internos est laborum enim.
+
+Aut eveniet labore sed beatae Quis rem quae ducimus est nobis aliquid ut sint sunt aut quia aliquid ex pariatur eius. Et repellendus nostrum ea cumque doloremque qui accusamus itaque est minima et nisi dolores id praesentium voluptatem aut necessitatibus eveniet. Ut officia amet ut dignissimos incidunt ut explicabo rerum. Sed saepe omnis qui deleniti iure ut perferendis facilis aut molestiae repellat et error ullam non esse dolorem.
+
+Et officia veniam sit necessitatibus internos aut magnam eius? Et recusandae aperiam sit quia illo nam consequatur perferendis et autem aperiam est ipsam dolor ut eaque error aut aliquid Quis. Cum corporis iste sit nulla necessitatibus ad deleniti necessitatibus sed quia magnam.
+The text is in standard formatting that in HTML5. You can paste it either in any standard text editor or in a Rich Text field!
+Why do you use?
+The Lorem ipum filling text is used by graphic designers, programmers and printers with the aim of occupying the spaces of a website, an advertising product or an editorial production whose final text is not yet ready.
+
+This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels.
+
+In order to have a result that is more in keeping with the final result, the graphic designers, designers or typographers report the Lorem ipsum text in respect of two fundamental aspects, namely readability and editorial requirements.
+
+The choice of font and font size with which Lorem ipsum is reproduced answers to specific needs that go beyond the simple and simple filling of spaces dedicated to accepting real texts and allowing to have hands an advertising/publishing product, both web and paper, true to reality.
+
+Its nonsense allows the eye to focus only on the graphic layout objectively evaluating the stylistic choices of a project, so it is installed on many graphic programs on many software platforms of personal publishing and content management system.
+The most used version of Lorem Ipsum?
+
+« Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. »
+
+    Home
+    Text Generator
+
+Text Generator
+What's my IP
+FAQ
+Translations
+Lino Ipsum
+Like & Share
+Translations
+
+Did not find your language? Propose yourself to translate our contents by sending an email with your references and your suggestion.
+
+Lorem Ipsum Useful links
+Adobe Illustrator Plugin
+Chrome Plugin
+Sketch Plugin
+Wordpress Plugin
+Brackets Plugin
+Text Generator for jQuery
+
+© 2018 - 2022 LOREM IPZUM v.2.02 - info@loremipzum.com
+COOKIES POLICY - PRIVACY POLICY
+Credits: INTERNO 15 using JQuery and Bootstrap
+
+
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
+
+    VS Code in Action
+    Top Extensions
+    First Steps
+    Keyboard Shortcuts
+    Downloads
+    Privacy
+
+    TwitterTweet this link
+    RSSSubscribe
+    StackoverflowAsk questions
+    TwitterFollow @code
+    GitHubRequest features
+    IssuesReport issues
+    YouTubeWatch videos
+
+    Hello from Seattle. Follow @code
+
+    Support Privacy Terms of Use License 
+
+Microsoft homepage
+© 2022 Microsoft
+
+Skip to content 
+Visual Studio Code
+
+    Docs
+    Updates
+    Blog
+    API
+    Extensions
+    FAQ
+    Learn
+
+    Download VS Code Download
+
+Version 1.71 is now available! Read about the new features and fixes from August.
+Dismiss this update
+
+    Overview
+    Setup
+    Get Started
+    User Guide
+    Terminal
+    Languages
+    Node.js / JavaScript
+    TypeScript
+    Python
+    Java
+    C++
+    Containers
+    Data Science
+    Azure
+    Remote
+
+Thanks for downloading VS Code for Linux!
+Download not starting? Try this direct download link.
+
+Please take a few seconds and help us improve ... click to take survey.
+Getting Started
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your journey with VS Code with these introductory videos.
+Visual Studio Code in Action
+Intelligent Code Completion
+Code smarter with IntelliSense - completions for variables, methods, and imported modules.
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
+
+See more in the Marketplace
+First Steps
+
+To get the most out of Visual Studio Code, start by reviewing a few introductory topics:
+
+Intro Videos - Begin your journey with VS Code through these introductory videos.
+
+Setup - Install VS Code for your platform and configure the tool set for your development needs.
+
+User Interface - Introduction to the basic UI, commands, and features of the VS Code editor.
+
+Settings - Customize VS Code for how you like to work.
+
+Languages - Learn about VS Code's support for your favorite programming languages.
+
+Node.js - This tutorial gets you quickly running and debugging a Node.js web app.
+
+Tips and Tricks - Jump right in with Tips and Tricks to become a VS Code power user.
+
+Azure - VS Code is great for deploying your web applications to the cloud.
+
+Extension API - Learn how to write a VS Code extension.
+
+Why VS Code? - Read about the design philosophy and architecture of VS Code.
+Keyboard Shortcuts
+
+
+
+Keyboard Shortcut Reference Sheet - Learn the commonly used keyboard shortcuts.
+
+Keymap Extensions - Change VS Code's keyboard shortcuts to match another editor.
+
+Customize Keyboard Shortcuts - Modify the default keyboard shortcuts.
+Downloads
+
+Download VS Code - Quickly find the appropriate install for your platform (Windows, macOS and Linux)
+Privacy
+
+By default, VS Code auto-updates to new versions, and collects usage data and crash report information. You may opt out of these defaults by disabling them as instructed below:
+
+How do I disable auto update?
+
+How do I disable crash reporting?
+
+How do I disable usage reporting?
+Was this documentation helpful?
+Getting Started
