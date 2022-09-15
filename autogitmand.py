@@ -5,7 +5,7 @@ Automate the process of using commands such as clone, commit, branch, pull, merg
 """
 
 import subprocess
-from pyfiglet import figlet_format
+#from pyfiglet import figlet_format
 from termcolor import cprint
 
 
@@ -91,7 +91,7 @@ def blame():
 
 
 def main():
-    cprint(figlet_format(logo, font='slant'), 'green')
+    #cprint(figlet_format(logo, font='slant'), 'green')
     print(f'{info} \n')
 
     print('Commands to use: clone, commit, branch, pull, fetch, merge, reset and blame')
@@ -102,7 +102,7 @@ def main():
         'clone': clone,
         'commit': commit,
         'branch': branch,
-        'pull': pull, 
+        'pull': pull,
         'fetch': fetch,
         'merge': merge,
         'reset': reset,
