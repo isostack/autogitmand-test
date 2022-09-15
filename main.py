@@ -5,7 +5,7 @@ import datetime
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
 
-response = requests.get('https://www.bbc.com')
+response = requests.get('https://edition.cnn.com/')
 
 webpage = response.text
 
