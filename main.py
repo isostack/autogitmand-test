@@ -9,7 +9,7 @@ response = requests.get('https://www.bbc.com/')
 
 webpage = response.text
 
-with open(f'{today}.html', 'w') as f:
-    f.write(webpage)
+with open(f'{today}.html', 'w', newline='' , encoding="utf-8") as file:
+    file.writelines(webpage)
 
 autogitmand.start(f'{today}.html')
